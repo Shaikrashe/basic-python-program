@@ -1,2 +1,2 @@
 # python-parcatice
-how  i practice my pyhton practice day 
+my python  parcatice
